@@ -4,7 +4,8 @@
 ## Технологии:
 - HTML
 - CSS
-- SASS
+- SCSS
 - jQuery
+- Kit
 
 
